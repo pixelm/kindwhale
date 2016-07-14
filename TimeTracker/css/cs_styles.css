@@ -1,0 +1,4 @@
+body .record-tool-hovered {
+   outline: 5px solid #f50e0e !important;
+   cursor: pointer !important;
+}
